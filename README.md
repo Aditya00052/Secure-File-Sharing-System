@@ -8,6 +8,7 @@ IMP:
 1. The main.py file is the server/app file.(run it before using postman)
 2. For the email verification please add your email id and password in the code for the email verification process.( in the main.py file under client_user_signup function)
 3. Include the id of the file to be downloaded in the URL path
+4. Please install all the depencencies using requirements.txt before running the main.py file
 
 I included .docx instead of .doc as i work on windows 11, but .doc can also be easily be included in the code.
 
