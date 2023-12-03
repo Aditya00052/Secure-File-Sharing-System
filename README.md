@@ -9,6 +9,9 @@ IMP:
 2. For the email verification please add your email id and password in the code for the email verification process.( in the main.py file under client_user_signup function)
 3. Include the id of the file to be downloaded in the URL path
 4. Please install all the depencencies using requirements.txt before running the main.py file
+5. Already registered users:
+   a. Ops user: username-aditya101, password-adityasingh
+   b. Client user: username-abhishek101, password-abhisheksingh
 
 I included .docx instead of .doc as i work on windows 11, but .doc can also be easily be included in the code.
 
